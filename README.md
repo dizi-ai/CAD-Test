@@ -1,5 +1,5 @@
 # CAD-Test
 Чтобы запустить с параллельными вычислениями:
-  g++ -O3 -fopenmp main.cpp -I.
-Обычный запуск:
-  g++ main.cpp -I.
+<p>   g++ -O3 -fopenmp main.cpp -I.
+<p>Обычный запуск:
+<p>   g++ main.cpp -I.
